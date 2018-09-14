@@ -1,2 +1,3 @@
 # GradingProgram
-A simple C++ program that calculates a students grades
+A simple C++ program that calculates a student's grades for a course.
+employs classes and is split up into three files, a header file, class file and client program.  
